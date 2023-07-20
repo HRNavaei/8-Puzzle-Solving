@@ -1,7 +1,7 @@
 /* This project is written to solve 8-Puzzle problem using A* algorithm with manhattan heuristic.
 *
-* How to use: Enter the puzzle arrangement with starting from top-left piece in the file "8_puzzle.txt" 
-* in the project folder and run the project. See the solution in standard output.
+* How to use: Enter the puzzle arrangement starting from the top-left piece in the file '8_puzzle.txt' located in the project folder, and then run the project.
+* You will see the solution in the standard output.
 *
 * Programmer: Hamidreza Navaei.
 */
